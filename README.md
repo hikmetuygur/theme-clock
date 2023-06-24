@@ -8,9 +8,9 @@ The Theme Clock project is a simple web application that displays an analog cloc
 
 ## Technologies Used
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
